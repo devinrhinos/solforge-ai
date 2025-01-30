@@ -24,6 +24,19 @@ Ensure you have Python installed. You can check by running:
 
 ```sh
 python --version
+```
+****Clone the Repository****
+```
 git clone `https://github.com/your-username/your-repo.git`
 cd your-repo
+```
+****Install Dependencies****
+```
 pip install -r requirements.txt
+```
+
+****Usage****
+Run the script with:
+```
+python main.py --help
+```
