@@ -40,3 +40,21 @@ Run the script with:
 ```
 python main.py --help
 ```
+*****Example Usage:****
+```
+python main.py --option value
+
+```
+### ****Configuration****
+You can configure the script using the following options:
+```
+python main.py --config config.json
+```
+### ****Contributing****
+
+🔀 Fork the repository.
+🌿 Create a new branch (git checkout -b feature-branch).
+📝 Commit your changes (git commit -m 'Add feature').
+📤 Push to the branch (git push origin feature-branch).
+🔁 Open a pull request.
+
