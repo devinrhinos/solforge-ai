@@ -1,0 +1,3 @@
+from src.solana_tools.program_generator import generate_solana_program
+
+...

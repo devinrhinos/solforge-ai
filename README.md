@@ -1,2 +1,3 @@
-# solforge-ai
-Ai Coding Assistant
+# SolForge AI
+
+...

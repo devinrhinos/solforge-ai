@@ -1,0 +1,5 @@
+openai
+langchain
+solana
+pytest
+anchorpy
